@@ -44,7 +44,7 @@
   <img width="1000" height="1000" src="Asistente Horario imagen.png">
 </p>
 
-```
+
 
 ### 🛠 Requisitos
 
@@ -53,16 +53,16 @@
 
 ### Dependencias externas
 
-```
+
 pandas>=1.3.0
 tkcalendar>=1.6.1
 ```
 
 > `tkinter`, `json`, `threading` y demás ya vienen incluidos con Python.
 
----
 
-## 🚀 Instalación
+
+### 🚀 Instalación
 
 ### 1. Clona el repositorio
 
