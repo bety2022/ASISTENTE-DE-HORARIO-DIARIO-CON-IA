@@ -43,9 +43,8 @@
 > 💡 *Agrega aquí capturas de pantalla de tu aplicación*
 
 ```
-screenshot_principal.png   → Vista general de la app
-screenshot_calendario.png  → Filtrado por fecha
-screenshot_estadisticas.png → Panel de IA
+Asistente Horario imagen.png
+
 ```
 
 ---
