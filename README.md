@@ -41,7 +41,7 @@
 ## 📸 Capturas de Pantalla
 
 <p align="center">
-  <img width="800" height="800" src="Asistente Horario imagen.png">
+  <img width="1000" height="1000" src="Asistente Horario imagen.png">
 </p>
 
 ```
