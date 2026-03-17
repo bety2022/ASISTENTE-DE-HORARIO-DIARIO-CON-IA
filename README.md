@@ -43,9 +43,9 @@
 > 💡 *Agrega aquí capturas de pantalla de tu aplicación*
 
 ```
-ASISTENTE-DE-HORARIO-DIARIO-CON-IA
-/Asistente Horario imagen.png
-
+<p align="center">
+  <img width="400" height="400" src="Asistente Horario imagen.png" alt="Logo de NoCountry">
+</p>
 
 ```
 
