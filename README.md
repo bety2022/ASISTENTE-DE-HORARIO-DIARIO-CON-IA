@@ -43,7 +43,9 @@
 > 💡 *Agrega aquí capturas de pantalla de tu aplicación*
 
 ```
-Asistente Horario imagen.png
+ASISTENTE-DE-HORARIO-DIARIO-CON-IA
+/Asistente Horario imagen.png
+
 
 ```
 
