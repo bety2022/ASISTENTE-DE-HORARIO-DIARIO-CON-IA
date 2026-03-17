@@ -40,8 +40,6 @@
 
 ## 📸 Capturas de Pantalla
 
-> 💡 *Agrega aquí capturas de pantalla de tu aplicación*
-
 ```
 <p align="center">
   <img width="400" height="400" src="Asistente Horario imagen.png">
