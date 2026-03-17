@@ -46,7 +46,7 @@
 
 ```
 
-## 🛠 Requisitos
+### 🛠 Requisitos
 
 - Python **3.7** o superior
 - pip (gestor de paquetes)
